@@ -1,0 +1,13 @@
+nombre: juan pablo
+
+
+apellido: marin rendon
+
+
+edad:17
+
+
+a
+a
+a
+a
