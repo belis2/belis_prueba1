@@ -1,0 +1,72 @@
+Glosario Lenguajes de programacion 
+
+
+
+
+/Nokia Bell Labs (anteriormente llamados AT&T Bell Laboratories, Bell Telephone Laboratories y Bell Labs) es una compañía estadounidense
+
+sede investigación y desarrollo científico, actualmente propiedad de la empresa finlandesa Nokia. Su sede se encuentra en Murray Hill, Nueva Jersey, además de tener laboratorios en otros lugares de los Estados Unidos y en otros países, incluida España. Su origen se remonta a los Laboratorios Telefónicos Bell, fundados en el año 1925 por la empresa AT&T y que luego fueron propiedad de Lucent Technologies.
+
+
+
+Haskell ​ es un lenguaje de programación estandarizado multi-propósito, funcionalmente puro, con evaluación no estricta y memorizada, y fuerte tipificación estática. Su nombre se debe al lógico estadounidense Haskell Curry, debido a su aportación al cálculo lambda, el cual tiene gran influencia en el lenguaje.
+
+Q#
+
+Q Sharp o Q# es un lenguaje de programación y un simulador de computación cuántica creado por Microsoft. Este lenguaje se creó para expresar algoritmos cuánticos y para que los programadores desarrollen sus propios programas cuánticos.​ Fue lanzado el 11 de diciembre del 2017 como parte del Quantum Development Kit.
+
+
+Lisp (históricamente LISP) es una familia de lenguajes de programación de computadora de tipo multiparadigma con larga historia y una inconfundible y útil sintaxis homoicónica basada en la notación polaca.
+
+Un haiku es un breve poema de origen japonés que se inspira en la naturaleza, especialmente en el cambio de las estaciones. El otoño comienza. Cada día un trabajo: dibujar flores. Masaoka Shiki El mundo cabe en diecisiete sílabas: tú en esta choza.
+
+F# es un lenguaje de programación multiparadigma de código abierto, ​ para la plataforma .NET, que conjunta la programación funcional con las disciplinas imperativa y orientada a objetos. Es una variante del lenguaje de programación ML y es compatible con la implementación.
+
+
+
+
+
+
+
+
+ Los lenguajes de programación imperativos son como unas instrucciones paso a paso (cómo) redactadas para el ordenador. Describen de forma explícita qué pasos deben llevarse a cabo y en qué secuencia para alcanzar finalmente la solución deseada.
+
+C++ es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos. En ese sentido, desde el punto de vista de los lenguajes orientados a objetos, C++ es un lenguaje híbrido.
+
+
+
+otro lenguaje multiparadigma:
+Un lenguaje de programación multiparadigma es el cual soporta más de un paradigma de programación. Según lo describe Bjarne Stroustrup, permiten crear “programas usando más de un estilo de programación”.
+
+
+Autodesk 3ds Max (Estudio Max) es un programa de creación de gráficos y animación 3D desarrollado por Autodesk, en concreto la división Autodesk Media & Entertainment. Creado inicialmente por el Grupo Yost para Autodesk, salió a la venta por primera vez en 1990 para DOS.
+
+
+
+
+
+
+C# es un lenguaje imperativo
+programación orientada a objetos: está basada en el imperativo, pero encapsula elementos denominados objetos que incluyen tanto variables como funciones. Está representado por C# o Java entre otros, pero el más representativo sería el Smalltalk que está completamente orientado a objetos.}
+
+Studio Max
+Autodesk 3ds Max es un programa de creación de gráficos y animación 3D desarrollado por Autodesk, en concreto la división Autodesk Media & Entertainment. Creado inicialmente por el Grupo Yost para Autodesk, salió a la venta por primera vez en 1990 para DOS.
+
+Modding 
+El modding, concepto derivado de la palabra inglesa modify, es el arte o técnica de modificar estética o funcionalmente partes de un ordenador, ya sea la caja, ratón, teclado o monitor, pero también otros dispositivos relacionados como pueden ser las consolas.
+
+
+RenderWare es un motor gráfico para videojuegos creado por la desarrolladora británica Criterion Games.
+
+Game Maker:
+GameMaker Studio es una plataforma basada en un lenguaje de programación interpretado y un kit de desarrollo de software para desarrollar videojuegos, creada originalmente por el profesor Mark Overmars en el lenguaje de programación Delphi, y orientada a usuarios novatos o con pocas nociones de programación.
+
+
+Gamebryo es un motor de videojuego, originalmente propiedad de Numerical Design Limited, y es el sucesor del motor NetInmerse, también de NDL. Desde la creación de Gamebryo, NDL se fusionó con Emergent Game Technologies. La nueva empresa es conocida como "Emergent Game Technologies".
+
+Matrox
+Matrox Electronic Systems Ltd es una empresa canadiense que produce chips gráficos y componentes para PC. Fue fundada por Lorne Trottier and Branko Matic. El nombre viene del apellido de los fundadores: "Ma" de Matic y "Tro" de Trottier combinado con la 'x' de excelencia.
+
+
+ATi
+ATI Technologies Inc. fue una de las empresas de hardware que diseñaba GPUs, fue comprada por AMD en el año 2006 pero mantuvo su nombre para algunos productos hasta la salida de la serie Radeon HD 6000 en el 2010.
